@@ -2,7 +2,7 @@
 title: Curso R - GIS y Modelamiento de distribución de especies
 author: AsoBioQ
 date: '2022-03-01'
-image: "https://i.ibb.co/ZcT34mn/Posts.png"
+image: "https://i.ibb.co/w0dV2mX/Posts.png"
 slug: []
 categories: []
 tags: []
@@ -12,7 +12,7 @@ Los biólogos [David Vanegas-Alarcón](https://rbiologos.com/author/david-vanega
 
 Las personas participantes fueron estudiantes y graduados del programa de biología de la Universidad del Quindío. Los miembros de la ***Asociación de Biólogos del Quindío*** tuvieron derecho al descuento para la inscripción en el curso
 
-La asociación apoyó el curso realizando la publicidad a través de las redes sociales de la asociación, como Facebook e Instagram. Así mismo, se realizó la certificación de las personas participantes
+La asociación apoyó el curso realizando la publicidad a través de las redes sociales de la asociación, como Facebook e Instagram. Así mismo, se realizó la certificación de las personas participantes.
 
 <center>
 ![](https://i.ibb.co/N91qbdz/1.png){width="100%"}
