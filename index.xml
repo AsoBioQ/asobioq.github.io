@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AsoBioQ</title>
+    <link>https://asobioq.github.io/</link>
+    <description>Recent content on AsoBioQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asobioq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tramita tu afiliación</title>
+      <link>https://asobioq.github.io/blog/app/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/app/</guid>
+      <description>Asóciate a la ASOBIOQPara poder asociarte con nosotros deberás seguir los siguientes pasos</description>
+    </item>
+    
+    <item>
+      <title>Tramita tu Tarjeta Profesional</title>
+      <link>https://asobioq.github.io/blog/tramite/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/tramite/</guid>
+      <description>En este espacio conocerás y aprenderás los diferentes pasos y requerimientos a seguir para realizar el trámite de tu tarjeta profesional ante el Consejo profesional de Biología.</description>
+    </item>
+    
+    <item>
+      <title>Curso Estadística en R</title>
+      <link>https://asobioq.github.io/blog/curso-estad%C3%ADstica-en-r/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/curso-estad%C3%ADstica-en-r/</guid>
+      <description>La docente Diana Lucia Buitrago Torres estuvo a cargo del curso “Estadística en R”, el cual tuvo una duración de 9 horas entre los días 25-27 de febrero del año 2022.</description>
+    </item>
+    
+    <item>
+      <title>Curso R - GIS y Modelamiento de distribución de especies</title>
+      <link>https://asobioq.github.io/blog/curso-r-gis-modelamiento-de-distribuci%C3%B3n-de-especies/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/curso-r-gis-modelamiento-de-distribuci%C3%B3n-de-especies/</guid>
+      <description>Los biólogos David Vanegas-Alarcón, Eduardo Grajales-Hernández del proyecto R Biólogos y el geógrafo Fabio Alexander Castro estuvieron a cargo del curso “R - GIS y Modelamiento de distribución de especies”, el cual tuvo una duración de 30 horas entre los días 7 de febrero hasta el 15 de marzo del año 2022.</description>
+    </item>
+    
+    <item>
+      <title>Feria biológica Membrillal, Circasia</title>
+      <link>https://asobioq.github.io/blog/jornada-biol%C3%B3gica-2021-membrillal/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/jornada-biol%C3%B3gica-2021-membrillal/</guid>
+      <description>La Feria Biológica 2021 fue realizada por el trabajo conjunto entre la Asociación de Biólogos del Quindío y la Fundación Dúma Kindúma en la vereda Membrillal del municipio de Circasia, Quindío</description>
+    </item>
+    
+  </channel>
+</rss>
