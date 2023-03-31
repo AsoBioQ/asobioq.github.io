@@ -1,7 +1,7 @@
 ---
 title: Tramita tu afiliación
 author: AsoBioQ
-date: '2022-03-29'
+date: '2021-01-01'
 image: "https://i.ibb.co/gFyHkPY/1.png"
 slug: []
 categories: []
@@ -38,7 +38,9 @@ Se recibirá tu solicitud y la junta dará el trámite a tu solicitud
 
 Cuando recibas el visto bueno de tu solicitud, la *ASOBIOQ* te enviará unos documentos entre los cuales encontrarás el **_Formulario de vinculación_**, el cuál deberás diligenciar y enviar de vuelta junto con el pago para poder realizar tu trámite. Al igual, también te enviarán una **_Carta de aceptación_** con los pasos necesarios para que puedas diligenciar tu trámite
 
-> El valor de la solicitud actual para estudiantes es de **$55000** y para profesionales es de **$116.000**
+> El valor de nueva solicitud de asociación para estudiantes es de **5% del SMMLV** y para profesionales es de **10% SMMLV**
+
+> El valor de renovación de asociación para estudiantes y profesionales es de **3% SMMLV**.
 
 <br>
 

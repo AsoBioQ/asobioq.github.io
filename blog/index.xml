@@ -6,25 +6,7 @@
     <description>Recent content in Blogs on AsoBioQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asobioq.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tramita tu afiliación</title>
-      <link>https://asobioq.github.io/blog/app/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://asobioq.github.io/blog/app/</guid>
-      <description>Asóciate a la ASOBIOQPara poder asociarte con nosotros deberás seguir los siguientes pasos</description>
-    </item>
-    
-    <item>
-      <title>Tramita tu Tarjeta Profesional</title>
-      <link>https://asobioq.github.io/blog/tramite/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://asobioq.github.io/blog/tramite/</guid>
-      <description>En este espacio conocerás y aprenderás los diferentes pasos y requerimientos a seguir para realizar el trámite de tu tarjeta profesional ante el Consejo profesional de Biología.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asobioq.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curso Estadística en R</title>
       <link>https://asobioq.github.io/blog/curso-estad%C3%ADstica-en-r/</link>
@@ -50,6 +32,33 @@
       
       <guid>https://asobioq.github.io/blog/jornada-biol%C3%B3gica-2021-membrillal/</guid>
       <description>La Feria Biológica 2021 fue realizada por el trabajo conjunto entre la Asociación de Biólogos del Quindío y la Fundación Dúma Kindúma en la vereda Membrillal del municipio de Circasia, Quindío</description>
+    </item>
+    
+    <item>
+      <title>Tramita tu afiliación</title>
+      <link>https://asobioq.github.io/blog/app/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/app/</guid>
+      <description>Asóciate a la ASOBIOQPara poder asociarte con nosotros deberás seguir los siguientes pasos</description>
+    </item>
+    
+    <item>
+      <title>Tramita tu Tarjeta Profesional</title>
+      <link>https://asobioq.github.io/blog/tramite/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/tramite/</guid>
+      <description>En este espacio conocerás y aprenderás los diferentes pasos y requerimientos a seguir para realizar el trámite de tu tarjeta profesional ante el Consejo profesional de Biología.</description>
+    </item>
+    
+    <item>
+      <title>Normatividad</title>
+      <link>https://asobioq.github.io/blog/normatividad/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://asobioq.github.io/blog/normatividad/</guid>
+      <description>Este espacio tiene como objetivo facilitar el acceso a la información relacionada con la normatividad de la Biología en Colombia, a través de la recopilación de documentos clave en un solo lugar.</description>
     </item>
     
   </channel>
