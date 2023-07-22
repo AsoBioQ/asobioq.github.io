@@ -51,7 +51,7 @@ Para empezar este proceso debes registrarte en la página del CPBiol, donde te p
 
 **_- Documentación_**
 
-Ahora encontrarás una sección llamada *MIS DOCUMENTOS*, en la cuál deberás subir la documentación que soporta la información ingresada en las secciones previas. Como vemos en la siguiente imagen, incluido el **Certificado de asociación** que te envió la *ASOBIOQ*. Para conocer la forma de obtener este certificado ingresa a la siguiente página [Asóciate a la AsoBioQ](https://asobioq.github.io/blog/tramite/).
+Ahora encontrarás una sección llamada *MIS DOCUMENTOS*, en la cuál deberás subir la documentación que soporta la información ingresada en las secciones previas. Como vemos en la siguiente imagen, incluido el **Certificado de asociación** que te envió la *ASOBIOQ*. Para conocer la forma de obtener este certificado ingresa a la siguiente página [Asóciate a la AsoBioQ](https://asobioq.github.io/blog/app/).
 
 ![](https://i.ibb.co/4VdBWCh/Doc.jpg){width="100%"}
 <br>
@@ -69,20 +69,27 @@ En esta sección está la magia, y por ello debes tener cuidado, porque es aquí
 
 El valor en pesos colombianos del trámite de la tarjeta profesional para el año **2023** según la página del CPBiol se muestra a continuación.
 
-|Detalle        |     Valor consignación        -|     Valor pago online     |
-|-----|:-----:|:-----:|
-|**Tarjeta Profesional Asociados**|**$580.000**|**$601.385**|
-|Tarjeta Profesional Nacional|$870.000|$902.752|
-|Tarjeta Extranjeros|$1.160.000|$1.203.670|
-|Certificados de vigencia|Sin Costo|Sin Costo|
-|Duplicado|$174.000|$180.550|
-|Renovación|$580.000|$501.385|
+<center>
+
+<div style="width: 100%">
+
+|               Detalle               |    Valor consignación    |     Valor pago online    |
+|-------------------------------------|:------------------------:|:------------------------:|
+|**Tarjeta Profesional Asociados**    |       **$580.000**       |       **$601.385**       |
+|Tarjeta Profesional Nacional         |         $870.000         |         $902.752         |
+|Tarjeta Extranjeros                  |        $1.160.000        |        $1.203.670        |
+|Certificados de vigencia             |         Sin Costo        |        Sin Costo         |
+|Duplicado                            |         $174.000         |         $180.550         |
+|Renovación                           |         $580.000         |         $501.385         |
+
+</div>
+</center>
 
 <br>
 
 **_- Pagos_**
 
-En esta pestaña encontrarás la información de tus pagos y el estado de tu solicitud. Si ves que ya realizaste el pago y aún no tienes el aprobado, o que tu trámite no sigue su proceso, comunícate con el CPBiol para que te ayuden a resolver estos inconvenientes.
+En esta pestaña encontrarás la información de tus pagos y el estado de tu solicitud. Si ves que ya realizaste el pago y aún no se refleja la aprobación de tu solicitud, o que tu trámite no sigue su proceso normal, comunícate con el CPBiol para que te ayuden a resolver estos inconvenientes.
 
 
 # **_Mayor información_**
