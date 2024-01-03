@@ -1,83 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example site multi-language</title>
+    <title>AsoBioQ</title>
     <link>https://asobioq.github.io/en/</link>
-    <description>Recent content on Example site multi-language</description>
+    <description>Recent content on AsoBioQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate><atom:link href="https://asobioq.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://asobioq.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Photos on Phone</title>
-      <link>https://asobioq.github.io/en/blog/blog-photos-on-phone/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/blog-photos-on-phone/</guid>
-      <description>Viral dreamcatcher keytar typewriter, aesthetic offal umami. Wellness spaces that reach neglected communities of color are essential, says spiritual advisor, mojo health advocate, and writer Anna Smith.</description>
+      <title>Curso Estadística en R</title>
+      <link>https://asobioq.github.io/en/blog/curso-estad%C3%ADstica-en-r/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://asobioq.github.io/en/blog/curso-estad%C3%ADstica-en-r/</guid>
+      <description>La docente Diana Lucia Buitrago Torres estuvo a cargo del curso “Estadística en R”, el cual tuvo una duración de 9 horas entre los días 25-27 de febrero del año 2022.</description>
     </item>
-    
     <item>
-      <title>How To Setup Navigator Hugo</title>
-      <link>https://asobioq.github.io/en/blog/installation/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <title>Curso R - GIS y Modelamiento de distribución de especies</title>
+      <link>https://asobioq.github.io/en/blog/curso-r-gis-modelamiento-de-distribuci%C3%B3n-de-especies/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://asobioq.github.io/en/blog/curso-r-gis-modelamiento-de-distribuci%C3%B3n-de-especies/</guid>
+      <description>Los biólogos David Vanegas-Alarcón, Eduardo Grajales-Hernández del proyecto R Biólogos y el geógrafo Fabio Alexander Castro estuvieron a cargo del curso “R - GIS y Modelamiento de distribución de especies”, el cual tuvo una duración de 30 horas entre los días 7 de febrero hasta el 15 de marzo del año 2022.</description>
     </item>
-    
     <item>
-      <title>The Nourish Box August</title>
-      <link>https://asobioq.github.io/en/blog/the-nourish-box-august/</link>
-      <pubDate>Sun, 08 Jul 2018 12:20:58 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/the-nourish-box-august/</guid>
-      <description>Viral dreamcatcher keytar typewriter, aesthetic offal umami. Wellness spaces that reach neglected communities of color are essential, says spiritual advisor, mojo health advocate, and writer Anna Smith.</description>
+      <title>Feria biológica Membrillal, Circasia</title>
+      <link>https://asobioq.github.io/en/blog/jornada-biol%C3%B3gica-2021-membrillal/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://asobioq.github.io/en/blog/jornada-biol%C3%B3gica-2021-membrillal/</guid>
+      <description>La Feria Biológica 2021 fue realizada por el trabajo conjunto entre la Asociación de Biólogos del Quindío y la Fundación Dúma Kindúma en la vereda Membrillal del municipio de Circasia, Quindío</description>
     </item>
-    
     <item>
-      <title>This Show Has Divided</title>
-      <link>https://asobioq.github.io/en/blog/this-show-has-divided/</link>
-      <pubDate>Sun, 08 Jul 2018 12:18:46 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/this-show-has-divided/</guid>
-      <description>Chatting with the ancestors I always say my thanks to my ancestors and talk with them, with my guides.</description>
+      <title>Tramita tu afiliación</title>
+      <link>https://asobioq.github.io/en/blog/app/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://asobioq.github.io/en/blog/app/</guid>
+      <description>Asóciate a la ASOBIOQ&#xD;Para poder asociarte con nosotros deberás seguir los siguientes pasos</description>
     </item>
-    
     <item>
-      <title>Why You Need a Statement Bag</title>
-      <link>https://asobioq.github.io/en/blog/why-you-need-a-statement-bag-this-season/</link>
-      <pubDate>Sun, 08 Jul 2018 12:11:29 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/why-you-need-a-statement-bag-this-season/</guid>
-      <description>A cleansing hot shower or bath I like to start with taking a shower or a bath when getting ready for bed.</description>
+      <title>Normatividad</title>
+      <link>https://asobioq.github.io/en/blog/normatividad/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://asobioq.github.io/en/blog/normatividad/</guid>
+      <description>Este espacio tiene como objetivo facilitar el acceso a la información relacionada con la normatividad de la Biología en Colombia, a través de la recopilación de documentos clave en un solo lugar.</description>
     </item>
-    
-    <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://asobioq.github.io/en/blog/are-you-doing-the-right-way/</link>
-      <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/are-you-doing-the-right-way/</guid>
-      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Something I Need to Tell You</title>
-      <link>https://asobioq.github.io/en/blog/something-i-need-to-tell-you/</link>
-      <pubDate>Sat, 07 Jul 2018 17:04:02 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/something-i-need-to-tell-you/</guid>
-      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Ten Things About Business</title>
-      <link>https://asobioq.github.io/en/blog/ten-things-about-business/</link>
-      <pubDate>Sat, 07 Jul 2018 16:57:54 +0600</pubDate>
-      
-      <guid>https://asobioq.github.io/en/blog/ten-things-about-business/</guid>
-      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
   </channel>
 </rss>

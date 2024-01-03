@@ -1,0 +1,21 @@
+---
+title: Normatividad
+author: AsoBioQ
+date: '2020-01-01'
+image: "https://i.ibb.co/br23FJ7/2.png"
+slug: []
+categories: []
+tags: []
+---
+
+Este espacio tiene como objetivo facilitar el acceso a la información relacionada con la normatividad de la Biología en Colombia, a través de la recopilación de documentos clave en un solo lugar. Aquí podrás encontrar leyes, resoluciones, decretos, manuales y otros recursos.
+
+Esperamos que este repositorio sea de gran utilidad para investigadores, estudiantes, académicos, profesionales y cualquier persona interesada en conocer más sobre la normatividad de la Biología en Colombia.
+
+
+
+
+# **_Mayor información_**
+
+Si no entiendes alguno de estos pasos, puedes comunicarte con nosotros en los distintos canales que encontrarás en la sección [**Contacto**](https://asobioq.github.io/contact)
+
