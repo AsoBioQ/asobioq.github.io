@@ -37,7 +37,3 @@ Para conocer más acerca de este proyecto, los invitamos a ver el siguiente vide
 <iframe src="https://www.youtube.com/embed/y1eW9g2jWZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="responsive" height="350"></iframe><br>
 
 Muchas gracias a todos por su apoyo, seguimos mejorando y trabajando arduamente para el crecimiento de la asociación. **¡Vamos por más!**
-
-<center>
-![](https://i.ibb.co/dG658MY/DSC-0928.jpg){width="100%"}
-</center><br>

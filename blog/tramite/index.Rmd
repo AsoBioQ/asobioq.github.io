@@ -69,14 +69,14 @@ En esta sección está la magia, y por ello debes tener cuidado, porque es aquí
 
 El valor en pesos colombianos del trámite de la tarjeta profesional para el año **2024** según la página del CPBiol se muestra a continuación. 
 
-|Detalle        |     Valor consignación        -|     Valor pago online     |
+|Detalle        |     Valor consignación        |     Valor pago online - Tarjeta crédito     |     Valor pago online - PSE     |
 |-----|:-----:|:-----:|
-|**Tarjeta Profesional Asociados**|**$650.000**|**$685.249**|
-|Tarjeta Profesional Nacional|$975.000|$1.027.338|
-|Tarjeta Extranjeros|$1.300.000|$1.373.280|
+|**Tarjeta Profesional Asociados**|**$520.000**|**$549.990**|**$540.296**|
+|Tarjeta Profesional Nacional|$650.000|$687.204|$675.092|
+|Tarjeta Extranjeros|$1.300.000|$1.373.280|$1.349.073|
 |Certificados de vigencia|Sin Costo|Sin Costo|
-|Duplicado|$195.000|$206.325|
-|Renovación|$650.000|$685.249|
+|Duplicado|$65.000|$69.737|$68.509|
+|Renovación|$650.000|$687.204|$675.092|
 
 <br>
 
