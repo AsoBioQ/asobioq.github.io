@@ -1,5 +1,5 @@
 ---
-title: Documental "Un hogar lejos de casa: especies exóticas invasoras"
+title: Documental - Un hogar lejos de casa, especies exóticas invasoras
 author: AsoBioQ
 date: '2024-06-01'
 image: "https://i.ibb.co/LdKszJt/Documental.png"
@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-Realización del documental “**Un hogar lejos de casa: especies exóticas invasoras**” por parte de los estudiantes del porgrama de Biología de la Universidad del Quindío-
+Realización del documental “**Un hogar lejos de casa: especies exóticas invasoras**” por parte de los estudiantes del porgrama de Biología de la Universidad del Quindío. 
 
 En la Asociación de Biólogos del Quindío estamos comprometidos con procesos de educación e investigación en el departamento. Por lo cual servimos como patrocinadores a la realización de un proyecto audiovisual que tiene como objetivo familiarizar e involucrar a la comunidad en el tema de las invasiones biológicas dando un panorama claro acerca de las implicaciones ambientales, económicas, sociales, culturales e incluso políticas de la problemática.
 
@@ -25,6 +25,3 @@ Para los estudiantes era importante resaltar y dar a conocer a la comunidad loca
 Pueden leer más sobre el proyecto en la nota de la Universidad del Quindío
 
 https://www.uniquindio.edu.co/noticias/publicaciones/3922/un-hogar-lejos-de-casa-el-nuevo-documental-del-programa-de-biologia/
-
-
-
