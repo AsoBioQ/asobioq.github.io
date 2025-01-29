@@ -4,9 +4,16 @@
     <title>Portafolio on AsoBioQ</title>
     <link>https://asobioq.github.io/portfolio/</link>
     <description>Recent content in Portafolio on AsoBioQ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate>
     <atom:link href="https://asobioq.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRANCAIS Portfolio</title>
+      <link>https://asobioq.github.io/portfolio/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
+      <guid>https://asobioq.github.io/portfolio/_index.fr/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

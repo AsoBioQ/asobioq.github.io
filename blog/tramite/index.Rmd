@@ -51,7 +51,7 @@ Para empezar este proceso debes registrarte en la página del CPBiol, donde te p
 
 **_- Documentación_**
 
-Ahora encontrarás una sección llamada *MIS DOCUMENTOS*, en la cuál deberás subir la documentación que soporta la información ingresada en las secciones previas. Como vemos en la siguiente imagen, incluido el **Certificado de asociación** que te envió la *ASOBIOQ*. Para conocer la forma de obtener este certificado ingresa a la siguiente página [Asóciate a la AsoBioQ](https://asobioq.github.io/blog/tramite/).
+Ahora encontrarás una sección llamada *MIS DOCUMENTOS*, en la cuál deberás subir la documentación que soporta la información ingresada en las secciones previas. Como vemos en la siguiente imagen, incluido el **Certificado de asociación** que te envió la *ASOBIOQ*. Para conocer la forma de obtener este certificado ingresa a la siguiente página [Asóciate a la AsoBioQ](https://asobioq.github.io/blog/app/).
 
 ![](https://i.ibb.co/4VdBWCh/Doc.jpg){width="100%"}
 <br>
@@ -67,16 +67,16 @@ En esta sección está la magia, y por ello debes tener cuidado, porque es aquí
 
 **_- Valor_**
 
-El valor en pesos colombianos del trámite de la tarjeta profesional para el año **2024** según la página del CPBiol se muestra a continuación. 
+El valor en pesos colombianos del trámite de la tarjeta profesional para el año **2025** según la página del CPBiol se muestra a continuación. 
 
 |Detalle        |     Valor consignación        |     Valor pago online - Tarjeta crédito     |     Valor pago online - PSE     |
 |-----|:-----:|:-----:|:-----:|
-|**Tarjeta Profesional Asociados**|**$520.000**|**$549.990**|**$540.296**|
-|Tarjeta Profesional Nacional|$650.000|$687.204|$675.092|
-|Tarjeta Extranjeros|$1.300.000|$1.373.280|$1.349.073|
+|**Tarjeta Profesional Asociados**|**$569.400**|**$591.518**|**$591.518**|
+|Tarjeta Profesional Nacional|$711.750|$739.120|$739.120|
+|Tarjeta Extranjeros|$1.423.500|$1.477.129|$1.477.129|
 |Certificados de vigencia|Sin Costo|Sin Costo|Sin Costo|
-|Duplicado|$65.000|$69.737|$68.509|
-|Renovación|$650.000|$687.204|$675.092|
+|Duplicado|$71.175|$74.911|$74.911|
+|Renovación|$711.750|$739.120|$739.120|
 
 <br>
 
